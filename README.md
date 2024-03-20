@@ -15,7 +15,8 @@ This script is designed to facilitate the renaming of files and folders by repla
 - This script is compatible with Windows operating systems only.
 - It is recommended to backup files and folders before running the script, as there is no built-in undo functionality for name changes.
 - **This script can modify multiple files and folders at once. Ensure that the replacement strings provided do not unintentionally affect other file or folder names.**
-
+- 
+## Script
 ```batch
 @echo off
 setlocal enabledelayedexpansion
